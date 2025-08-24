@@ -1,0 +1,14 @@
+D:\Route[Backend-.NET]\LINQ_Tutorials\LINQ\LINQ-Operators\Questions For LINQ\bin\Debug\net8.0\Questions For LINQ.exe
+D:\Route[Backend-.NET]\LINQ_Tutorials\LINQ\LINQ-Operators\Questions For LINQ\bin\Debug\net8.0\Questions For LINQ.deps.json
+D:\Route[Backend-.NET]\LINQ_Tutorials\LINQ\LINQ-Operators\Questions For LINQ\bin\Debug\net8.0\Questions For LINQ.runtimeconfig.json
+D:\Route[Backend-.NET]\LINQ_Tutorials\LINQ\LINQ-Operators\Questions For LINQ\bin\Debug\net8.0\Questions For LINQ.dll
+D:\Route[Backend-.NET]\LINQ_Tutorials\LINQ\LINQ-Operators\Questions For LINQ\bin\Debug\net8.0\Questions For LINQ.pdb
+D:\Route[Backend-.NET]\LINQ_Tutorials\LINQ\LINQ-Operators\Questions For LINQ\obj\Debug\net8.0\Questions For LINQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route[Backend-.NET]\LINQ_Tutorials\LINQ\LINQ-Operators\Questions For LINQ\obj\Debug\net8.0\Questions For LINQ.AssemblyInfoInputs.cache
+D:\Route[Backend-.NET]\LINQ_Tutorials\LINQ\LINQ-Operators\Questions For LINQ\obj\Debug\net8.0\Questions For LINQ.AssemblyInfo.cs
+D:\Route[Backend-.NET]\LINQ_Tutorials\LINQ\LINQ-Operators\Questions For LINQ\obj\Debug\net8.0\Questions For LINQ.csproj.CoreCompileInputs.cache
+D:\Route[Backend-.NET]\LINQ_Tutorials\LINQ\LINQ-Operators\Questions For LINQ\obj\Debug\net8.0\Questions For LINQ.dll
+D:\Route[Backend-.NET]\LINQ_Tutorials\LINQ\LINQ-Operators\Questions For LINQ\obj\Debug\net8.0\refint\Questions For LINQ.dll
+D:\Route[Backend-.NET]\LINQ_Tutorials\LINQ\LINQ-Operators\Questions For LINQ\obj\Debug\net8.0\Questions For LINQ.pdb
+D:\Route[Backend-.NET]\LINQ_Tutorials\LINQ\LINQ-Operators\Questions For LINQ\obj\Debug\net8.0\Questions For LINQ.genruntimeconfig.cache
+D:\Route[Backend-.NET]\LINQ_Tutorials\LINQ\LINQ-Operators\Questions For LINQ\obj\Debug\net8.0\ref\Questions For LINQ.dll

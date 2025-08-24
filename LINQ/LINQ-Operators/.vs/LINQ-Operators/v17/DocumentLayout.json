@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Route[Backend-.NET]\\LINQ_Tutorials\\LINQ\\LINQ-Operators\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A501BE9D-89EE-41F1-982D-D11E99A95B35}|Questions For LINQ\\Questions For LINQ.csproj|d:\\route[backend-.net]\\linq_tutorials\\linq\\linq-operators\\questions for linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A501BE9D-89EE-41F1-982D-D11E99A95B35}|Questions For LINQ\\Questions For LINQ.csproj|solutionrelative:questions for linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Route[Backend-.NET]\\LINQ_Tutorials\\LINQ\\LINQ-Operators\\Questions For LINQ\\Program.cs",
+              "RelativeDocumentMoniker": "Questions For LINQ\\Program.cs",
+              "ToolTip": "D:\\Route[Backend-.NET]\\LINQ_Tutorials\\LINQ\\LINQ-Operators\\Questions For LINQ\\Program.cs",
+              "RelativeToolTip": "Questions For LINQ\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T19:15:38.392Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

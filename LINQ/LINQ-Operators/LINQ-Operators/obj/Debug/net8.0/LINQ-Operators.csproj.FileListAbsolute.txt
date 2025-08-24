@@ -1,0 +1,14 @@
+D:\Route[Backend-.NET]\LINQ_Tutorials\LINQ\LINQ-Operators\LINQ-Operators\bin\Debug\net8.0\LINQ-Operators.exe
+D:\Route[Backend-.NET]\LINQ_Tutorials\LINQ\LINQ-Operators\LINQ-Operators\bin\Debug\net8.0\LINQ-Operators.deps.json
+D:\Route[Backend-.NET]\LINQ_Tutorials\LINQ\LINQ-Operators\LINQ-Operators\bin\Debug\net8.0\LINQ-Operators.runtimeconfig.json
+D:\Route[Backend-.NET]\LINQ_Tutorials\LINQ\LINQ-Operators\LINQ-Operators\bin\Debug\net8.0\LINQ-Operators.dll
+D:\Route[Backend-.NET]\LINQ_Tutorials\LINQ\LINQ-Operators\LINQ-Operators\bin\Debug\net8.0\LINQ-Operators.pdb
+D:\Route[Backend-.NET]\LINQ_Tutorials\LINQ\LINQ-Operators\LINQ-Operators\obj\Debug\net8.0\LINQ-Operators.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route[Backend-.NET]\LINQ_Tutorials\LINQ\LINQ-Operators\LINQ-Operators\obj\Debug\net8.0\LINQ-Operators.AssemblyInfoInputs.cache
+D:\Route[Backend-.NET]\LINQ_Tutorials\LINQ\LINQ-Operators\LINQ-Operators\obj\Debug\net8.0\LINQ-Operators.AssemblyInfo.cs
+D:\Route[Backend-.NET]\LINQ_Tutorials\LINQ\LINQ-Operators\LINQ-Operators\obj\Debug\net8.0\LINQ-Operators.csproj.CoreCompileInputs.cache
+D:\Route[Backend-.NET]\LINQ_Tutorials\LINQ\LINQ-Operators\LINQ-Operators\obj\Debug\net8.0\LINQ-Operators.dll
+D:\Route[Backend-.NET]\LINQ_Tutorials\LINQ\LINQ-Operators\LINQ-Operators\obj\Debug\net8.0\refint\LINQ-Operators.dll
+D:\Route[Backend-.NET]\LINQ_Tutorials\LINQ\LINQ-Operators\LINQ-Operators\obj\Debug\net8.0\LINQ-Operators.pdb
+D:\Route[Backend-.NET]\LINQ_Tutorials\LINQ\LINQ-Operators\LINQ-Operators\obj\Debug\net8.0\LINQ-Operators.genruntimeconfig.cache
+D:\Route[Backend-.NET]\LINQ_Tutorials\LINQ\LINQ-Operators\LINQ-Operators\obj\Debug\net8.0\ref\LINQ-Operators.dll
